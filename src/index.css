@@ -12,10 +12,15 @@ body {
   vertical-align: middle;
   font-size: large;
   height: 300px;
-  padding: 3%;
+  padding: 1.9%;
 
 }
 
+footer {
+  color: rgb(17, 12, 34);
+  border: black;
+  background-color: darksalmon;
+}
 
 button {
   background-color: #273627; /* Black */

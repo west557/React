@@ -5,6 +5,7 @@ import virtual from "./virtual.jpg"
 
 
 // https://api.github.com/users/west557
+// https://github.com/jasonhtpham/StoryAR-frontend
 
 
 function App() {
@@ -17,8 +18,15 @@ return (
       <img src={virtual} /> <br></br>
       <button
         className="Start"
-        onClick={() =>{Props.onClick}}
-      >Start Game</button>
+        >Start Game</button>
+        <br></br>
+        <br></br>
+      <footer>
+        A program by Jason Pham, Nikhita Paul, 
+        Scott West and Cameron Howling.       
+      </footer>
+        <br></br>
+        <br></br>
 
     </div>
   );
