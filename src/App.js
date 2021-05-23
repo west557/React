@@ -11,7 +11,6 @@ import virtual from "./virtual.jpg"
 
 function App() {
 
-
 return (
     <div>
       <h1>Story AR!</h1>
